@@ -6,3 +6,4 @@
 ## Practice
 1. [Comprasion table](task01.md)
 1. [Presentation](task02.md)
+1. [Mockups](task03.md)
