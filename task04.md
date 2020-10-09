@@ -10,6 +10,6 @@ To draw diagram you can use such online tool as https://app.diagrams.net/ or sim
 Example:
 -------
 
-ER-model for TODO-applcation
+ER-model for online shop
 
-** Work in progress **
+![ER diagram](media/shop_erd.png)
