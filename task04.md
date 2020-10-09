@@ -5,6 +5,8 @@ Create [ER-model](https://en.wikipedia.org/wiki/Entity%E2%80%93relationship_mode
 
 It must contain at least 5 entities. Specify their main attributes and describe the relationships between them
 
+To draw diagram you can use such online tool as https://app.diagrams.net/ or similar
+
 Example:
 -------
 
