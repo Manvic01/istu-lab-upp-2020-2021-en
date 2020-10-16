@@ -8,3 +8,4 @@
 1. [Presentation](task02.md)
 1. [Mockups](task03.md)
 1. [ER-model](task04.md)
+1. [Project schedule](task05.md)
