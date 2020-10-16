@@ -1,4 +1,4 @@
-Task 5 Use-cases
+Task 5 API and Use cases
 ======
 
 1) For now you have views (mockups) and data structure (ER-model). You need to design [API](https://en.wikipedia.org/wiki/API)-functions that will connect your views and your data. 
@@ -76,7 +76,7 @@ Task 5 Use-cases
  
  Example of use case:
  --------------
- Use case 'Successful signining in'
+ Use case 'Successful signing in'
  
  Script:
  ```
