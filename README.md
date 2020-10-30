@@ -10,3 +10,6 @@
 1. [ER-model](task04.md)
 1. [API and Use cases](task05.md)
 1. [Project schedule](task06.md)
+
+## Information
+1. [Progress](progress.md)
