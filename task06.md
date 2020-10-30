@@ -19,14 +19,17 @@ Task 6 Project schedule
    3.2. Implement function "<your function name 2>"   
    3.3. ...
    4. Testing
-   4.1 Test use-case "<your use-case name 1>"
-   4.2 Test use-case "<your use-case name 2>"
-   4.3 ...      
+   4.1. Test use-case "<your use-case name 1>"
+   4.2. Test use-case "<your use-case name 2>"
+   4.3. ...      
+   5. Deploying
+   5.1. Create production database
+   5.2. Install & configure software
+   5.3. Carry out acceptance tests
    ```
+   
+2) Estimate each work how many working days they will take
 
-
-
-
-**WIP**
+3) Create [Gantt chart](https://en.wikipedia.org/wiki/Gantt_chart) which will show the schedule of your project. Each work from your WBS should be presented there
 
 
